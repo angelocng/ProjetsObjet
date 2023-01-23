@@ -1,0 +1,12 @@
+C:\Users\acongiu\OneDrive - CENTRE DE READAPTATION\Documents\DiagrammeClasse\Feuille3POO\Exo421\BibliotequeJeu421\bin\Debug\net6.0\BibliotequeJeu421.deps.json
+C:\Users\acongiu\OneDrive - CENTRE DE READAPTATION\Documents\DiagrammeClasse\Feuille3POO\Exo421\BibliotequeJeu421\bin\Debug\net6.0\BibliotequeJeu421.dll
+C:\Users\acongiu\OneDrive - CENTRE DE READAPTATION\Documents\DiagrammeClasse\Feuille3POO\Exo421\BibliotequeJeu421\bin\Debug\net6.0\BibliotequeJeu421.pdb
+C:\Users\acongiu\OneDrive - CENTRE DE READAPTATION\Documents\DiagrammeClasse\Feuille3POO\Exo421\BibliotequeJeu421\obj\Debug\net6.0\BibliotequeJeu421.csproj.AssemblyReference.cache
+C:\Users\acongiu\OneDrive - CENTRE DE READAPTATION\Documents\DiagrammeClasse\Feuille3POO\Exo421\BibliotequeJeu421\obj\Debug\net6.0\BibliotequeJeu421.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acongiu\OneDrive - CENTRE DE READAPTATION\Documents\DiagrammeClasse\Feuille3POO\Exo421\BibliotequeJeu421\obj\Debug\net6.0\BibliotequeJeu421.AssemblyInfoInputs.cache
+C:\Users\acongiu\OneDrive - CENTRE DE READAPTATION\Documents\DiagrammeClasse\Feuille3POO\Exo421\BibliotequeJeu421\obj\Debug\net6.0\BibliotequeJeu421.AssemblyInfo.cs
+C:\Users\acongiu\OneDrive - CENTRE DE READAPTATION\Documents\DiagrammeClasse\Feuille3POO\Exo421\BibliotequeJeu421\obj\Debug\net6.0\BibliotequeJeu421.csproj.CoreCompileInputs.cache
+C:\Users\acongiu\OneDrive - CENTRE DE READAPTATION\Documents\DiagrammeClasse\Feuille3POO\Exo421\BibliotequeJeu421\obj\Debug\net6.0\BibliotequeJeu421.dll
+C:\Users\acongiu\OneDrive - CENTRE DE READAPTATION\Documents\DiagrammeClasse\Feuille3POO\Exo421\BibliotequeJeu421\obj\Debug\net6.0\refint\BibliotequeJeu421.dll
+C:\Users\acongiu\OneDrive - CENTRE DE READAPTATION\Documents\DiagrammeClasse\Feuille3POO\Exo421\BibliotequeJeu421\obj\Debug\net6.0\BibliotequeJeu421.pdb
+C:\Users\acongiu\OneDrive - CENTRE DE READAPTATION\Documents\DiagrammeClasse\Feuille3POO\Exo421\BibliotequeJeu421\obj\Debug\net6.0\ref\BibliotequeJeu421.dll

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BibliotequeJeu421.Manche">
+    <Position X="4.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAgAAgAAAAAAAgAAAAAAAAAAAQAAAAAAAAAAAIACE=</HashCode>
+      <FileName>Manche.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="sesDes" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BibliotequeJeu421.De">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAQAAAgIAEBAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>De.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="alea" />
+    </ShowAsAssociation>
+    <Lollipop Orientation="Left" Position="0.331" />
+  </Class>
+  <Class Name="BibliotequeJeu421.Alea" Collapsed="true">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Alea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotequeJeu421.Partie">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAIAAAAAAAQAAAAQwAAgAAAAAQ=</HashCode>
+      <FileName>Partie.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="mancheCourante" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="System.IComparable&lt;T&gt;">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

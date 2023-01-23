@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Jeu421/1.0.0": {
+        "dependencies": {
+          "BibliotequeJeu421": "1.0.0"
+        },
+        "runtime": {
+          "Jeu421.dll": {}
+        }
+      },
+      "BibliotequeJeu421/1.0.0": {
+        "runtime": {
+          "BibliotequeJeu421.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jeu421/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotequeJeu421/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
